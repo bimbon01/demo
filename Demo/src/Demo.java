@@ -14,5 +14,4 @@ public class Demo {
 			System.out.println("<3");
 		}
 	}
-
 }
